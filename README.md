@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm AngelJ
 
-<!--
-**AngelJie529/AngelJie529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student in Intelligent Science and Technology
+🔍 Interested in NLP, LLM applications, and AI Agent systems
+🌏 Based in Chongqing, China — targeting AI algorithm/product internships and exploring graduate study abroad
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+- **[RAG QA System](coming soon)** — LangChain-based retrieval-augmented QA system, improved Hit@3 from 0.625 to 1.0 via translation + reranking
+- **[Multi-Expert Sentiment Classification](coming soon)** — combines Bailian qwen-plus, locally deployed Qwen2.5-1.5B-Instruct, and a fine-tuned BERT classifier via voting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Skills
+Python · LangChain · Jupyter · SQL · Prompt Engineering
+
+### 📫 Reach me
+[dengminjie44@gmail.com]
